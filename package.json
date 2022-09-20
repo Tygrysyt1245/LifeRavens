@@ -1,0 +1,14 @@
+{
+  "name": "liferavens",
+  "version": "0.0.1",
+  "description": "Bot serwerowy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tygrys_yt",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.9.2"
+  }
+}
